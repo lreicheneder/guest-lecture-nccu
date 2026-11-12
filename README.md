@@ -1,5 +1,5 @@
-# Guest lecture on foreign aid allocation in postconflict settings
-This repository contains the R code and datasets for the guest lecture on foreign aid allocation in postconflict settings within the MA Program IMPIS at NCCU
+# Guest lecture on the consequences of armed conflict for foreign aid
+This repository contains the R code and datasets for the guest lecture on the consequences of armed conflict for foreign aid within the MA Program IMPIS at NCCU
 
 The exercise examines whether donors that participated in a preceding conflict provide higher aid volumes to recipients in the postconflict period.
 
