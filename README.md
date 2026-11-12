@@ -78,4 +78,8 @@ All files are available here:
 
 https://github.com/lreicheneder/guest-lecture-nccu
 
+## 6. Acknowledgements
+
+This guest lecture was developed during my research stay at the Department of Diplomacy, National Chengchi University (NCCU), Taipei, funded by the 2026 Ministry of Foreign Affairs (MOFA) Taiwan Fellowship.
+
 Enjoy the exercise!
